@@ -1,9 +1,9 @@
 # hypr-light
 config list
-- [ ] yazi configured
+- [ ] yazi 
 - [ ] hyprland
 - [ ] hyprlock
 - [ ] swaync
-- [ ] kitty
+- [x] kitty
 - [ ] bemenu
 - [ ] a clipboard manager
